@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764719105386",
+    "project_id": "socialnet-587cb",
+    "storage_bucket": "socialnet-587cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764719105386:android:50f9c89fa92f6931269113",
+        "android_client_info": {
+          "package_name": "com.socialnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764719105386-88ceodtmuje6g2j05rdo45npssgk5q69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCry7WfzPMOJwFgJKDNHpwLjPkwhv0l63c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764719105386-88ceodtmuje6g2j05rdo45npssgk5q69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
